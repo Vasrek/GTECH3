@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets to ignore
+Content/AncientTempleRuins
+Content/__ExternalActors__/AncientTempleRuins
